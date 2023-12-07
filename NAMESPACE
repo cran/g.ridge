@@ -1,0 +1,3 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("graphics", "curve", "mtext", "par", "points")
+importFrom("stats", "optimize", "pnorm", "sd", "rnorm")
